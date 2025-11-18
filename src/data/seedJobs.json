@@ -1,0 +1,59 @@
+[
+  {
+    "id": "job-1",
+    "company": "Acme Corp",
+    "role": "Frontend Developer",
+    "location": "Remote",
+    "salary": 70000,
+    "dateApplied": "2025-10-05",
+    "status": "Applied",
+    "resumeHighlights": ["React", "Context API", "CSS Modules"],
+    "notes": "Referred by alumni; applied via company portal"
+  },
+  {
+    "id": "job-2",
+    "company": "Zephyr Labs",
+    "role": "UI Engineer",
+    "location": "Bangalore",
+    "salary": 120000,
+    "dateApplied": "2025-09-20",
+    "status": "Screening",
+    "resumeHighlights": ["TypeScript", "Accessibility"],
+    "notes": "Phone screen scheduled"
+  },
+  {
+    "id": "job-3",
+    "company": "Nimbus Tech",
+    "role": "Fullstack Engineer",
+    "location": "New York",
+    "salary": 135000,
+    "dateApplied": "2025-09-10",
+    "status": "Interview",
+    "resumeHighlights": ["Node.js", "React", "PostgreSQL"],
+    "notes": "Onsite scheduled for next week"
+  },
+  {
+    "id": "job-4",
+    "company": "Vertex Analytics",
+    "role": "Data Visualization Engineer",
+    "location": "London",
+    "salary": 110000,
+    "dateApplied": "2025-08-28",
+    "status": "Rejected",
+    "resumeHighlights": ["D3.js", "Dashboards"],
+    "notes": "Got a polite rejection after final round"
+  },
+  {
+    "id": "job-5",
+    "company": "Aurora Systems",
+    "role": "Frontend Engineer",
+    "location": "Remote (EU)",
+    "salary": 95000,
+    "dateApplied": "2025-10-11",
+    "status": "Applied",
+    "resumeHighlights": ["Design Systems", "Storybook"],
+    "notes": "Cold application via careers page"
+  }
+]
+
+
